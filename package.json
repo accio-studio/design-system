@@ -1,5 +1,5 @@
 {
-  "name": "@modulz/design-system",
+  "name": "@accio-studio/design-system",
   "version": "0.3.3",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
